@@ -22,10 +22,6 @@ namespace Cmds
                     {
                         Environment.CurrentDirectory += $"\\{getArgs.Replace(" ", "")}";
                     }
-                    else if (File.Exists($"{Environment.CurrentDirectory}\\{getArgs}"))
-                    {
-                        Engine.OutputNSys(File.ReadAllText($"{Environment.CurrentDirectory}\\{getArgs}"));
-                    }
                     else
                     {
                         Engine.OutputSysWE("[CD] Error: directory/file does not exists");
