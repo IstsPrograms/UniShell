@@ -2,12 +2,12 @@
 
 namespace OperManager
 {
-    public class InvokingManagerRealtime
+    public class Operture
     {
         protected Delegate[] commands;
         protected Action[] services;
         protected Delegate[] executingEngines;
-        public InvokingManagerRealtime(Delegate[] commands, Action[] services, Delegate[] executingEngines)
+        public Operture(Delegate[] commands, Action[] services, Delegate[] executingEngines)
         {
             this.services = services;
             this.commands = commands;
