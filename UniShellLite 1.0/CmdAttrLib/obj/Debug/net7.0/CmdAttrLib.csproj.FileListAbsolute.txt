@@ -1,0 +1,12 @@
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/bin/Debug/net7.0/CmdAttrLib.deps.json
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/bin/Debug/net7.0/CmdAttrLib.dll
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/bin/Debug/net7.0/CmdAttrLib.pdb
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/CmdAttrLib.csproj.AssemblyReference.cache
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/CmdAttrLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/CmdAttrLib.AssemblyInfoInputs.cache
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/CmdAttrLib.AssemblyInfo.cs
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/CmdAttrLib.csproj.CoreCompileInputs.cache
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/CmdAttrLib.dll
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/refint/CmdAttrLib.dll
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/CmdAttrLib.pdb
+/home/ist/Рабочий стол/UniShellLite/CmdAttrLib/obj/Debug/net7.0/ref/CmdAttrLib.dll
