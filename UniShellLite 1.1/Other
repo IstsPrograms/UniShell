@@ -1,0 +1,2 @@
+In the /packages directory, you can create a file `init.sh` with a script that will be run when UniShell starts
+

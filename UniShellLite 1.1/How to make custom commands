@@ -1,0 +1,19 @@
+How to create custom commands.
+1. It is necessary to use the `CmdAttrLib` project located in the directory of the same name.
+2. Create a library type project, add the `CmdAttrLib` project as dependencies.
+3. Commands must use the `ICommand` interface. It is allowed to create several commands in one project.
+4. Compile and use the .dll file.
+In order for the commands to be automatically loaded when UniShell starts, you need to place the .dll file in the packages directory located in the root directory.
+Here is an example command:
+```cs
+public class Hello : ICommand
+{
+    public string Name { get; set; } = "hello";
+    public string Description { get; set; } = "Hello world command";
+    public int Execute(string args)
+    {
+        Console.WriteLine("Hello, World!");
+        return 0;
+    }
+}
+```

@@ -1,0 +1,12 @@
+/home/ist/RiderProjects/UniShellFS/CmdILib/bin/Release/net7.0/CmdILib.deps.json
+/home/ist/RiderProjects/UniShellFS/CmdILib/bin/Release/net7.0/CmdILib.dll
+/home/ist/RiderProjects/UniShellFS/CmdILib/bin/Release/net7.0/CmdILib.pdb
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/CmdILib.csproj.AssemblyReference.cache
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/CmdILib.GeneratedMSBuildEditorConfig.editorconfig
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/CmdILib.AssemblyInfoInputs.cache
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/CmdILib.AssemblyInfo.cs
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/CmdILib.csproj.CoreCompileInputs.cache
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/CmdILib.dll
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/refint/CmdILib.dll
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/CmdILib.pdb
+/home/ist/RiderProjects/UniShellFS/CmdILib/obj/Release/net7.0/ref/CmdILib.dll
